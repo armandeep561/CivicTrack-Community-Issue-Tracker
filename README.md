@@ -178,15 +178,3 @@ Each status change is recorded with timestamp for full transparency.
 ## 📄 License
 
 This project is open source and available for community use.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to improve the platform for your community.
-
-## 📞 Support
-
-For questions or support, please open an issue in the repository.
-
----
-
-**Built with ❤️ for stronger communities**
